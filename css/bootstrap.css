@@ -165,12 +165,12 @@ body {
 }
 
 a {
-  color: #0088cc;
+  color: #bd82b4;
   text-decoration: none;
 }
 
 a:hover {
-  color: #005580;
+  color: #804477;
   text-decoration: underline;
 }
 
@@ -3617,10 +3617,10 @@ input[type="submit"].btn.btn-mini {
   float: left;
   padding: 8px 20px 12px;
   margin-left: -20px;
-  font-size: 20px;
+  font-size: 32px;
   font-weight: 200;
   line-height: 1;
-  color: #999999;
+  color: #bd82b4;
 }
 
 .navbar .navbar-text {
