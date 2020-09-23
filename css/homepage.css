@@ -1,0 +1,160 @@
+
+#header{
+    height:250px;
+    width:97%;
+    background-color:#330033;
+    position:fixed;
+    z-index:1;
+    margin:-20px 5px 10px 0px;
+    color:black;
+}
+#name{
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+	text-align:left;
+}
+#university{
+    text-align:left;
+    color: gold;
+    font-family:Verdana, sans-serif;
+}
+
+#image{
+    float:right;
+    margin-top:-75px;
+}
+
+.center{
+    width:97%;
+    height:100%;
+    background-color:#A0A0A0;
+    margin-left:8px;
+    margin-top:10px;
+   
+}
+
+.right{
+    height:400px;
+    width:85%;
+    background-color:#0099FF;
+    float:right;
+    margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	position:relative;
+	margin-bottom:10px;
+}
+
+#info{
+    color:black;
+    font-family:Verdana, sans-serif;
+    position:relative;
+    margin-top:40px;
+}  
+
+#footer{
+    height:30px;
+    width:97%;
+    background-color:#580000;
+    clear:both;
+    padding-top:15px;
+    position: relative;
+}
+
+img{
+    align:"center";
+    alt:"Photo of Becky"; 
+    width:150px ;
+    height:200px ;
+    border:7px solid #A0A0A0;
+}
+
+
+
+body{
+    background-color:#A0A0A0;
+}
+
+#header{
+    height:100px;
+    width:100%;
+    background-color:#330033;
+    position:fixed;
+    z-index:1;
+    margin-top:-20px;
+    margin-bottom:10px;
+    color:black;
+}
+
+#name{
+    margin-left: 5px;
+    padding-top: 5px;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
+    text-align:center;
+}
+#university{
+    text-align:center;
+    color: gold;
+    font-family:Verdana, sans-serif;
+}
+#contactinfo{
+    color:black;
+    margin-top:110px;
+}
+#contactinfodetails{
+    color:black;
+    margin-top:-15px;
+    text-align:center;
+}
+#image{
+    width:300px;
+    height:400px;
+    margin-top:80px;
+    border: 3px solid #330033;
+    float:left;
+    margin-right:10px;
+}
+
+.left{
+    width:55%;
+    background-color:#A0A0A0;
+    margin-left:40px;
+    position:relative;
+    float:left;
+    margin-top:10px;
+}
+
+.right{
+    height:300px;
+    width:35%;
+    background-color:#A0A0A0;
+    float:right;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    position:relative;
+    margin-bottom:10px;
+}
+
+.everything{
+    clear:both;
+}
+
+#info{
+    color:black;
+    font-family:Verdana, sans-serif;
+    position:relative;
+    margin-top:40px;
+} 
+
+#footer{
+    background-color:#330033;
+    position:relative;
+    clear:both;
+    color:white;
+}
